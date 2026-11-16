@@ -20,7 +20,7 @@ window.SITE = {
   headline: "Network engineer and M.Sc. researcher in wireless communications, seeking a Ph.D. position in Electrical and Computer Engineering.",
   intro: "I model and analyse wireless fading channels with machine learning at BRAC University, and I plan and optimise national fiber backbone networks at Fiber@Home. I want to bring both to doctoral research on channel modeling and next-generation wireless systems.",
   photo: "assets/photo.jpg",
-  cv: "",   /* to show the "Download CV" button, upload the PDF into assets/ and write: cv: "assets/Fayzan_Kowshik_Khan_CV.pdf" */
+  cv: "assets/Fayzan_Kowshik_Khan_CV.pdf",
   email: "kowshik.f.khan@gmail.com",
   location: "Uttara, Dhaka, Bangladesh",
   updated: "November 2026",
